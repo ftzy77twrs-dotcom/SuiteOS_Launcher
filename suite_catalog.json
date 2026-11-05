@@ -23,9 +23,9 @@
     {
       "id": "finance",
       "name": "Finanzen",
-      "version": "1.0",
+      "version": "1.1",
       "description": "Einnahmen und Ausgaben, Monatsübersicht, Konten und Daueraufträge.",
-      "changelog": "Erste Version.",
+      "changelog": "Budget hinzugefügt.",
       "icon": "finance",
       "color": "#FFB45C"
     },
