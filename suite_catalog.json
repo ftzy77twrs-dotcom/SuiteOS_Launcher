@@ -49,6 +49,7 @@
     }
   ],
   "clocks": [
-  { "id": "orbit", "name": "Orbit", "description": "Stunde und Minute kreisen als Planeten, ein Sekunden-Komet zieht seine Bahn." }
+  { "id": "orbit", "name": "Orbit", "description": "Stunde und Minute kreisen als Planeten, ein Sekunden-Komet zieht seine Bahn." },
+    { "id": "orbit2", "name": "Orbit2", "description": "Stunde und Minute kreisen als Planeten" }
 ]
 }
